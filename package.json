@@ -1,0 +1,27 @@
+{
+  "name": "ng2v",
+  "version": "0.0.3",
+  "description": "Angular2 based components",
+  "main": "./ng2v.umd.js",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajkeshwar/ng2v.git"
+  },
+  "keywords": [
+    "angular",
+    "material"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajkeshwar/ng2v/issues"
+  },
+  "homepage": "https://github.com/rajkeshwar/ng2v#readme",
+  "author": "Rajkeshwar Prasad <rajkeshwar.pd@gmail.com>",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/common": "^4.0.0",
+    "@angular/http": "^4.0.0"
+  }
+}
